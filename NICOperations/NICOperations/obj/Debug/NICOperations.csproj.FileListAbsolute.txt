@@ -1,0 +1,9 @@
+E:\2nd year 1st sem\Visual Programming (P)\Assesment\NICOperations\NICOperations\obj\Debug\NICOperations.csprojResolveAssemblyReference.cache
+E:\2nd year 1st sem\Visual Programming (P)\Assesment\NICOperations\NICOperations\bin\Debug\NICOperations.dll
+E:\2nd year 1st sem\Visual Programming (P)\Assesment\NICOperations\NICOperations\bin\Debug\NICOperations.pdb
+E:\2nd year 1st sem\Visual Programming (P)\Assesment\NICOperations\NICOperations\obj\Debug\NICOperations.dll
+E:\2nd year 1st sem\Visual Programming (P)\Assesment\NICOperations\NICOperations\obj\Debug\NICOperations.pdb
+E:\2-1\Visual Programming (P)\2018ICT73\NICOperations\NICOperations\obj\Debug\NICOperations.csproj.AssemblyReference.cache
+E:\2-1\Visual Programming (P)\2018ICT73\NICOperations\NICOperations\obj\Debug\NICOperations.csproj.CoreCompileInputs.cache
+E:\2-1\Visual Programming (P)\2018ICT73\NICOperations\NICOperations\obj\Debug\NICOperations.dll
+E:\2-1\Visual Programming (P)\2018ICT73\NICOperations\NICOperations\obj\Debug\NICOperations.pdb
